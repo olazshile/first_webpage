@@ -1,2 +1,2 @@
 # first_webpage
-Basic Html Code used to create my first Webpage.
+Basic Html Code used in creating my first Webpage.
